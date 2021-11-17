@@ -379,10 +379,10 @@ img {
     margin-bottom: 30px;
 }
 
-.portfolio-border {
+.portfolio-about {
     border: 1px solid #eeeeee;
     border-top: none;
-    padding: 20px;
+    padding: 20px 24px;
 }
 
 .portfolio-item-title {
