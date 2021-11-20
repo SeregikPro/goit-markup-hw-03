@@ -114,6 +114,7 @@ img {
 }
 
 .header-logo {
+    display: block;
     margin-right: 93px;
     padding-top: 24px;
     padding-bottom: 24px;
@@ -136,6 +137,7 @@ img {
 }
 
 .header-link {
+    display: flex;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -146,6 +148,7 @@ img {
 }
 
 .header-contacts {
+    display: flex;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -307,6 +310,7 @@ img {
 }
 
 .footer-logo {
+    display: block;
     margin-bottom: 20px;
 }
 
